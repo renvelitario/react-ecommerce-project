@@ -1,8 +1,8 @@
 import { Routes, Route } from 'react-router'
 
-import HomePage from './Pages/HomePage'
-import CheckoutPage from './Pages/CheckoutPage'
-import OrdersPage from './Pages/OrdersPage'
+import HomePage from './pages/HomePage'
+import CheckoutPage from './pages/CheckoutPage'
+import OrdersPage from './pages/OrdersPage'
 
 import './App.css'
 
